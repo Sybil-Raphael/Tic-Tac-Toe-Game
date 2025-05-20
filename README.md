@@ -1,9 +1,9 @@
 # Tic-Tac-Toe Game
 
-**Name**: Sybil Raphael
-**Class**: 1411-001
-**Due Date**: November 15, 2023
-**Status**: Run as expected
+**Name**: Sybil Raphael  
+**Class**: 1411-001  
+**Due Date**: November 15, 2023  
+**Status**: Run as expected  
 
 ## Description
 
